@@ -13,10 +13,10 @@
  }
 
  :root {
-    --bg-color:#72ffa873;
-    --second-bg-color:#3cd6fd44;
-    --text-color:#f50cd6;
-    --main-color:rgb(48, 48, 214); 
+    --bg-color:#d247f573;
+    --second-bg-color:#cbeb2c44;
+    --text-color:hsl(249, 92%, 50%);
+    --main-color:#1b1a1b; 
  }
 
  html{
@@ -484,7 +484,7 @@
 }
 
 #msg{
-   color: #61b752;
+   color: #080808;
    margin-top: -10px;
    display: block;
 }
